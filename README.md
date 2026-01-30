@@ -186,4 +186,3 @@ Expected to work on all modern browsers that support HTML5 Canvas and WebSockets
 
 This project prioritizes **clarity, correctness, and real-time collaboration quality** over over-engineering. The architecture is designed to be easily explainable, extensible, and suitable for real-world collaborative systems.
 
----
